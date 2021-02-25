@@ -3,4 +3,6 @@
 3 - Tipos 
 4 - Operations
 4 - Functions
-5 - If
+5 - Ifs
+6 - Packages e Imports
+7 - Exercicios 
