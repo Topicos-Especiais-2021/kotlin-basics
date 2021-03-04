@@ -3,6 +3,6 @@
 * Tipos ✓
 * Operations ✓
 * Functions ✓
-* Ifs
-* Packages e Imports
+* Ifs ✓
+* Packages e Imports ✓
 
