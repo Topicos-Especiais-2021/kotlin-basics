@@ -1,8 +1,8 @@
 * Hello World ✓
 * Variables & String Template ✓
 * Tipos ✓
-* Operations ...
-* Functions
+* Operations ✓
+* Functions ✓
 * Ifs
 * Packages e Imports
 

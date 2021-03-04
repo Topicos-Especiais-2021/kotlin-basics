@@ -12,6 +12,7 @@ fun main() {
 
     val quintaVariavel = "Quinta Variavel"
     println(quintaVariavel)
+    println("Valor da variavel $primeiraVariavel") // String Template
 }
 
 fun minhaSegundaFuncao() {

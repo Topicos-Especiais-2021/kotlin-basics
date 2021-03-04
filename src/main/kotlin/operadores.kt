@@ -1,12 +1,4 @@
 fun main() {
-    soma()
-    subtracao()
-    multiplicacao()
-    divisao()
-    comparacao()
-    sobra()
-    and()
-    or()
     not()
 }
 
@@ -32,14 +24,14 @@ fun divisao() {
 
 fun comparacao() {
     val valor1: Int = 1
-    val valor2: Int = 2
+    val valor2: Int? = null
     val valor3: Int = valor1
-    val valor4: Int = 2
+    val valor4: Int? = 2
 
     println("Comparacao 1 ${valor1 == valor2}") //false
     println("Comparacao 2 ${valor3 == valor2}") //false
     println("Comparacao 3 ${valor1 == valor3}") //true
-    println("Comparacao 4 ${valor2 == valor4}") //true
+    println("Comparacao 4 ${valor2 === valor4}") //true
 }
 
 fun sobra() {
