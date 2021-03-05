@@ -1,3 +1,5 @@
+package variaveis
+
 val primeiraVariavel: String = "Primeira Variável"
 val segundaVariavel = "Segunda Variável"
 var terceiraVariavel: String = "Terceira Variavel"

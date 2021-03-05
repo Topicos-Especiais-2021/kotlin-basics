@@ -1,3 +1,5 @@
+package funcoes
+
 fun main() {
     val resultado = argumentoComValorDefault(
         arg2 = "Frita",

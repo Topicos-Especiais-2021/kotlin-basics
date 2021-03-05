@@ -1,3 +1,5 @@
+package operadores
+
 fun main() {
     not()
 }
