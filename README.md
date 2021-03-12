@@ -4,7 +4,7 @@
 * Operations ✓
 * Functions ✓
 * Ifs ✓
-* Packages e Imports ✓    
+* Packages e Imports ✓      
     - Feature by Package
         - cliente
         - pedido
@@ -17,7 +17,13 @@
             ...
 * When Expression ✓
 * Tipos de Colecoes ✓
-* For loop
+* For loop ✓    
+* While loop
+* Break and Continue
+* Exception
+
+
+
 
 Para saber mais: 
  - Domain-Driven Design

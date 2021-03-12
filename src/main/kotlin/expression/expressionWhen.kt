@@ -29,7 +29,7 @@ fun whenSingleExpressed(input: Int?) = when (input) {
     else -> println("Nenhuma das anteriores")
 }
 
-fun whenSimplificado(input: Int?) {
+fun whenTradicional(input: Int?) {
     when (input) {
         0 -> println("é zero")
         1, 2 -> println("está entre 1 e 2")
