@@ -18,9 +18,11 @@
 * When Expression ✓
 * Tipos de Colecoes ✓
 * For loop ✓    
-* While loop
-* Break and Continue
-* Exception
+* While loop ✓
+* Break and Continue ✓
+* Classes ✓
+* Properties ✓
+* DataClass ✓
 
 
 

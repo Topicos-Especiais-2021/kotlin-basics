@@ -41,6 +41,9 @@ fun loopQualificado() {
         print("First $i: ")
         second@ for (x in 1..5) {
             print(x)
+            if(x % 2 == 0) {
+                break@first
+            }
         }
         println()
     }
