@@ -1,10 +1,10 @@
-* Hello World ✓
-* Variables & String Template ✓
-* Tipos ✓
-* Operations ✓
-* Functions ✓
-* Ifs ✓
-* Packages e Imports ✓      
+* Hello World ✓✓
+* Variables & String Template ✓✓
+* Tipos ✓✓
+* Operations ✓✓
+* Functions ✓✓
+* Ifs ✓✓
+* Packages e Imports ✓✓      
     - Feature by Package
         - cliente
         - pedido
@@ -15,17 +15,15 @@
             ...
         - repository
             ...
-* When Expression ✓
-* Tipos de Colecoes ✓
-* For loop ✓    
-* While loop ✓
-* Break and Continue ✓
-* Classes ✓
-* Properties ✓
-* DataClass ✓
-
-
-
+* When Expression ✓✓
+* Tipos de Colecoes ✓✓
+* For loop ✓✓    
+* While loop ✓✓
+* Break and Continue ✓✓
+* Classes ✓✓
+* Properties ✓✓
+* DataClass ✓✓
+* Heranca
 
 Para saber mais: 
  - Domain-Driven Design
